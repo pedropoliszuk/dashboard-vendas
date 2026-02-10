@@ -1,5 +1,12 @@
 # 📊 Análise de Acompanhamento de Vendas — SQL + Excel Dashboard
 
+<img width="944" height="557" alt="image" src="https://github.com/user-attachments/assets/27d88813-5397-4152-8ab4-2c87df5560e7" />
+<img width="1623" height="350" alt="image" src="https://github.com/user-attachments/assets/99803ff5-89a0-4dda-987a-68c84ce04e62" />
+<img width="1707" height="407" alt="image" src="https://github.com/user-attachments/assets/24ba71a8-e129-459d-ac3e-a20fbb3b2ef8" />
+
+
+
+
 Este projeto tem como objetivo analisar métricas de desempenho de um funil de vendas, utilizando consultas em **PostgreSQL (pgAdmin)** e visualização de dados em **Excel** por meio de dashboards interativos.
 
 ---
